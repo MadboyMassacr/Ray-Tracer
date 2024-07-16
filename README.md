@@ -1,11 +1,10 @@
-# Introduction to Computer Graphics (CS7.302, IIIT Hyderabad)
-This is the base code that is to be used for all assignments in the above course. <br>
-Some sample scenes are given in the <a href="https://github.com/cs7-302-graphics/scenes">cs7-302-graphics/scenes</a> repo.
+# Welcome to my basic 3D renderer
+This is a sample which is intended to work similar to Blender's renderer.
 
 Instructions to clone, compile and run are given below.
 
 ## Cloning this repo
-```git clone --recursive https://github.com/cs7-302-graphics/simple_renderer```
+```git clone --recursive https://github.com/MadboyMassacr/Ray-Tracer.git```
 Do not forget the `--recursive` flag!
 
 ## Compiling
